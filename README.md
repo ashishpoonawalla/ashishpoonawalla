@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there I'm Ashish 👋
+I'm a Full-Stack Software Engineer.
 
+Languages and Tools:
+html5, css3, bootstrap, javascript, typescript, react, redux, jest, nextjs, .Net, .Net Maui Android iOS Apps, git, python, materialui, nodejs, postgresql,  mysql,mongodb,  tailwindcss
+
+🛠  Find me here
+  
 <!--
 **ashishpoonawalla/ashishpoonawalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
