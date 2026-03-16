@@ -2,7 +2,7 @@
 I'm a Full-Stack Software Developer.
 
 Languages and Tools:
-ReactJS, Redux, NextJS, Blazer, .Net Maui, Typescript, NodeJS, Express, Go Lang, Asp.net Core, Python, Supabase, Appwrite, GraphQL, Mobile React Native, .Net Maui Android/iOS App, Database Admin in PostgreSQL, MongoDB, MySql, MS-SqlServer, Oracle, Neon , Html, CSS, Scss, Bootstrap, MUI, Tailwind, Php, DevOps - Azure, GCP, AWS, CI/CD, Supabase, Agile, Vercel Data Analyst with Power BI, WordPress CMS, AI Tools Gemini, Claude, ChatGPT, Deep, Seek, Antigravity
+Frontend - ReactJS, Redux, NextJS, Blazer, .Net Maui, Typescript, Backend - NodeJS, Express, Go Lang, Asp.net Core, Python, Supabase, Appwrite, GraphQL, Mobile - React Native, .Net Maui Android/iOS App, Database - PostgreSQL, MongoDB, MySql, MS-SqlServer, Oracle, Neon, Web Design - Html5, CSS3, Bootstrap, MUI, Tailwind, DevOps - Azure, GCP, AWS, CI/CD, Supabase, Agile, Vercel Data Analyst with Power BI, WordPress CMS, AI Tools - Gemini, Claude, ChatGPT, Deep, Seek, Antigravity
 
 🛠  Find me here
   
