@@ -4,9 +4,12 @@ I'm a Full-Stack Software Developer.
 Languages and Tools:
 Frontend - ReactJS, Redux, NextJS, Blazer, .Net Maui, Typescript, Backend - NodeJS, Express, Go Lang, Asp.net Core, Python, Supabase, Appwrite, GraphQL, Mobile - React Native, .Net Maui Android/iOS App, Database - PostgreSQL, MongoDB, MySql, MS-SqlServer, Oracle, Neon, Web Design - Html5, CSS3, Bootstrap, MUI, Tailwind, DevOps - Azure, GCP, AWS, CI/CD, Supabase, Agile, Vercel Data Analyst with Power BI, WordPress CMS, AI Tools - Gemini, Claude, ChatGPT, Deep, Seek, Antigravity
 
-🛠  Find me here
+
   
 <!--
+
+🛠  Find me here
+
 **ashishpoonawalla/ashishpoonawalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
