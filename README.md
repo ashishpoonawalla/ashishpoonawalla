@@ -1,8 +1,8 @@
 ## Hi there I'm Ashish 👋
-I'm a Full-Stack Software Engineer.
+I'm a Full-Stack Software Developer.
 
 Languages and Tools:
-html5, css3, bootstrap, javascript, typescript, react, redux, jest, nextjs, .Net, .Net Maui Android iOS Apps, git, python, materialui, nodejs, postgresql,  mysql,mongodb,  tailwindcss
+ReactJS, Redux, NextJS, Blazer, .Net Maui, Typescript, NodeJS, Express, Go Lang, Asp.net Core, Python, Supabase, Appwrite, GraphQL, Mobile React Native, .Net Maui Android/iOS App, Database Admin in PostgreSQL, MongoDB, MySql, MS-SqlServer, Oracle, Neon , Html, CSS, Scss, Bootstrap, MUI, Tailwind, Php, DevOps - Azure, GCP, AWS, CI/CD, Supabase, Agile, Vercel Data Analyst with Power BI, WordPress CMS, AI Tools Gemini, Claude, ChatGPT, Deep, Seek, Antigravity
 
 🛠  Find me here
   
